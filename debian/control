@@ -1,0 +1,12 @@
+Source: ros-hydro-care-o-bot-robot
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-care-o-bot-robot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cob-calibration-data, ros-hydro-cob-command-tools, ros-hydro-cob-common, ros-hydro-cob-driver, ros-hydro-cob-environments, ros-hydro-cob-extern, ros-hydro-cob-robots, ros-hydro-cob-substitute, ros-hydro-ipa-canopen, ros-hydro-schunk-modular-robotics
+Description: The care-o-bot-robot meta-package
