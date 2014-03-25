@@ -1,0 +1,12 @@
+Source: ros-hydro-care-o-bot
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-care-o-bot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-care-o-bot-robot, ros-hydro-care-o-bot-simulation, ros-hydro-cob-manipulation, ros-hydro-cob-navigation
+Description: The care-o-bot meta-package
