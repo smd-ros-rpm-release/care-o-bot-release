@@ -1,0 +1,12 @@
+Source: ros-indigo-care-o-bot
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-care-o-bot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-care-o-bot-robot, ros-indigo-care-o-bot-simulation, ros-indigo-cob-manipulation, ros-indigo-cob-navigation
+Description: The care-o-bot meta-package
