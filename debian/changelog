@@ -1,0 +1,32 @@
+ros-indigo-care-o-bot-simulation (0.6.3-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Tue, 06 Jan 2015 23:00:00 -0000
+
+ros-indigo-care-o-bot-simulation (0.6.2-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 15 Oct 2014 22:00:00 -0000
+
+ros-indigo-care-o-bot-simulation (0.6.1-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 15 Oct 2014 22:00:00 -0000
+
+ros-indigo-care-o-bot-simulation (0.6.0-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 27 Aug 2014 22:00:00 -0000
+
+ros-indigo-care-o-bot-simulation (0.5.0-0saucy) saucy; urgency=high
+
+  * add meta packages
+  * Contributors: Florian Weisshardt
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Sun, 23 Mar 2014 23:00:00 -0000
+
+
