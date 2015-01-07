@@ -1,0 +1,12 @@
+Source: ros-indigo-care-o-bot-desktop
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-care-o-bot-desktop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, blender, chromium-browser, disper, gimp, gitg, language-pack-de, language-pack-en, meld, openssh-server, python-bloom, python-rosinstall, python-wstool, ros-indigo-desktop-full, terminator, texmaker, tree, vim
+Description: The care-o-bot-desktop meta-package

@@ -1,0 +1,33 @@
+ros-indigo-care-o-bot-desktop (0.6.3-0trusty) trusty; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Tue, 06 Jan 2015 23:00:00 -0000
+
+ros-indigo-care-o-bot-desktop (0.6.2-0trusty) trusty; urgency=high
+
+  * add packages
+  * Contributors: Florian Weisshardt
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 15 Oct 2014 22:00:00 -0000
+
+ros-indigo-care-o-bot-desktop (0.6.1-0trusty) trusty; urgency=high
+
+  * add meta package care-o-bot-desktop
+  * Contributors: Florian Weisshardt
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 15 Oct 2014 22:00:00 -0000
+
+ros-indigo-care-o-bot-desktop (0.6.0-0trusty) trusty; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 27 Aug 2014 22:00:00 -0000
+
+ros-indigo-care-o-bot-desktop (0.5.0-0trusty) trusty; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Sun, 23 Mar 2014 23:00:00 -0000
+
+
