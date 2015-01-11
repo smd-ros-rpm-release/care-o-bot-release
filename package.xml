@@ -18,7 +18,6 @@
   <run_depend>language-pack-en</run_depend>
   <run_depend>language-pack-de</run_depend>
   <run_depend>openssh-server</run_depend>
-  <run_depend>chromium-browser</run_depend>
   <run_depend>texmaker</run_depend>
   <run_depend>gimp</run_depend>
   <run_depend>blender</run_depend>
